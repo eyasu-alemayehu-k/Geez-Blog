@@ -9,8 +9,8 @@
 - Mongodb 
 
 * Home page
-![Website Review](./Home.png)
+![Website Review](./home.png)
 
 * Dashboard page
-![Website Review](./Dashboard.png)
+![Website Review](./dashboard.png)
 
