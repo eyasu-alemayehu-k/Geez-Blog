@@ -1,0 +1,54 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.title{
+  color: #bbb;
+}
+
+.subtitle{
+  font-size: 20px;
+  margin-bottom: 30px;
+  color: #bbb;
+}
+
+.form {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.button {
+  width: 300px;
+  font-size: 16px;
+}
+
+.button:hover {
+  background-color: #49b07d;
+}
+
+.or {
+  color: #bbb;
+}
+
+.link {
+  text-decoration: underline;
+  color: #7d7c7c;
+}
+
+.link:hover {
+  color: rgb(61, 61, 61);
+}
+
+.google {
+  background-color: rgba(228, 97, 50, 0.72);
+  color: #bbb;
+}
+
+.google:hover {
+  background-color: rgba(228, 97, 50, 0.803);
+}
